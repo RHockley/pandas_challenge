@@ -1,6 +1,8 @@
 # pandas_challenge
 Files for Module 4 homework
 
+This code remains unfinished. I will do my best to update it over the next week to complete the tasks.
+
 
 # Unit 4 Homework: Pandas, Pandas, Pandas
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyse school and standardised test data.
